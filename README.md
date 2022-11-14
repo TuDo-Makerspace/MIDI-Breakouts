@@ -1,6 +1,18 @@
-# Just another pair of MIDI breakout boards
+# Just another pair of MIDI breakout boards <!-- omit in toc -->
 
 ![img](img/Top.jpg)
+
+- [Why](#why)
+- [Noteworthy Features](#noteworthy-features)
+- [Schematics](#schematics)
+	- [MIDI IN](#midi-in)
+	- [MIDI OUT](#midi-out)
+- [Ordering](#ordering)
+- [Assembly](#assembly)
+- [More Pictures](#more-pictures)
+- [License](#license)
+
+## Why
 
 This repository contains the KiCad files for a pair of MIDI breakout boards. There isn't anything particularly special about them, besides perhaps the fact that the MIDI OUT has a switch to select between 3.3V and 5V operation, as well as two BS170 MOSFETs to sink the current, rather than using buffer chips. Oh, and we use JST-XH connectors, because I hate those loose "DuPont" headers that allow you to plug things in the wrong way around! >:(
 
@@ -26,6 +38,14 @@ MIDI OUT:
  - Uses a JST XH connector to connect to the sending device (eg. a MCU, or a MIDI IN board for MIDI THRU)
 
 Both boards are compliant with the MIDI Specification
+
+## Schematics
+
+### MIDI IN
+![](img/MIDI_IN_Schematic.png)
+
+### MIDI OUT
+![](img/MIDI_OUT_Schematic.png)
 
 ## Ordering
 
