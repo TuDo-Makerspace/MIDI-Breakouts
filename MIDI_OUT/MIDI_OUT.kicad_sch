@@ -6,10 +6,10 @@
 
   (title_block
     (title "MIDI OUT Breakout Board")
-    (date "2022-09-11")
-    (rev "2.0")
+    (date "2022-11-14")
+    (rev "2.1")
     (company "TU-DO Makerspace")
-    (comment 2 "License: TAPR Open Hardware License v1.0")
+    (comment 2 "License: CERN-OHL-P v2")
     (comment 3 "ctx.xda@gmail.com")
     (comment 4 "Author: Patrick Pedersen")
   )

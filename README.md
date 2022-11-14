@@ -46,4 +46,6 @@ It is recommended to keep this view open while assembling the board.
 
 The following project is licensed under the [CERN-OHL-P v2 license](https://ohwr.org/cern_ohl_p_v2.pdf)
 
+The boards on the pictures claim `TAPR Open Hardware License v1.0`, however, the KiCAD project has been updated to use the CERN-OHL-P v2 license.
+
 Crediting is always appreciated, even for something as trivial as a pair of breakout boards!
