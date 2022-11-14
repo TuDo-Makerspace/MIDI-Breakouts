@@ -2,6 +2,8 @@
 
 ![img](img/Top.jpg)
 
+## Table of Contents <!-- omit in toc -->
+
 - [Why](#why)
 - [Noteworthy Features](#noteworthy-features)
 - [Schematics](#schematics)
