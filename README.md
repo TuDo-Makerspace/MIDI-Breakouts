@@ -7,7 +7,7 @@ This repository contains the KiCad files for a pair of MIDI breakout boards. The
 Further, one may also question the odd choice of some components, such as the 100nF film capacitor for voltage decoupling, instead of 100nF ceramic capacitor.
 This really leads us to why these boards have even been made in first place. They're were really just intended as test boards to try out some [template MIDI schematics](https://github.com/TU-DO-Makerspace/KiCAD-MIDI-Templates) I designed for future projects that require MIDI support. The components were chosen according to the stuff we had lying around in our lab, hence the quirky choice of components and varying resistor footprints.
 
-I'm still dumping this on GitHub, as we still have a few of these boards lying around and the repo serves as good documentation, but perhaps someone out there might also find them useful. After all, if you don't feel like using pricey film caps, you can always just pop in a ceramic one instead, the footprint is not that different.
+I'm still dumping this on GitHub, as we still have a few of these boards lying around and the repo serves as good documentation, but perhaps someone out there might also find them useful. After all, if you don't feel like using pricey film caps, you can always just pop in a ceramic one instead! The footprint is not that different!
 
 ## Noteworthy Features
 
@@ -33,7 +33,7 @@ The directories for the individual boards contain a "Gerbers" directory, which c
 
 ## Assembly
 
-To make assembly easier, the directories for the individual boards contain a "bom" directory, which contains a 'ibom.html' file. This file can be opened in a browser and contains a a interactive PCB view that allows you to see which components go where, and what value they have.
+To make assembly easier, the directories for the individual boards contain a "bom" directory, which contains a `ibom.html` file. This file can be opened in a browser and contains a a interactive PCB view that allows you to see which components go where, and what value they have.
 
 It is recommended to keep this view open while assembling the board.
 
