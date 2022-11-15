@@ -1,5 +1,6 @@
 # Just another pair of MIDI breakout boards <!-- omit in toc -->
 
+![poster](posters/Poster_Pos_Orange.png)
 ![img](img/Top.jpg)
 
 ## Table of Contents <!-- omit in toc -->
