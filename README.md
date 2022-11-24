@@ -10,7 +10,7 @@
 	- [MIDI IN](#midi-in)
 	- [MIDI OUT](#midi-out)
 - [Ordering](#ordering)
-- [Assembly](#assembly)
+- [Parts & Assembly](#parts--assembly)
 - [Pictures](#pictures)
 - [License](#license)
 
@@ -53,11 +53,12 @@ Both boards are compliant with the MIDI Specification
 
 The directories for the individual boards contain a "Gerbers" directory, which contains the gerber files for the respective board. You can use these to order the boards from your desired PCB manufacturer.
 
-## Assembly
+## Parts & Assembly
 
-To make assembly easier, the directories for the individual boards contain a "bom" directory, which contains a `ibom.html` file. This file can be opened in a browser and contains a a interactive PCB view that allows you to see which components go where, and what value they have.
+A interactive BOM for both boards can be found [here](https://tu-do-makerspace.github.io/MIDI-Breakouts/)
 
-It is recommended to keep this view open while assembling the board.
+The interactive bom contains a PCB view that allows you to see which components go where, and what value they have.
+This is particularly useful to have open while assembling the boards.
 
 ## Pictures
 
