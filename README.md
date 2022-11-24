@@ -55,7 +55,7 @@ The directories for the individual boards contain a "Gerbers" directory, which c
 
 ## Parts & Assembly
 
-A interactive BOM for both boards can be found [here](https://tu-do-makerspace.github.io/MIDI-Breakouts/)
+An interactive BOM for both boards can be found [here](https://tu-do-makerspace.github.io/MIDI-Breakouts/)
 
 The interactive bom contains a PCB view that allows you to see which components go where, and what value they have.
 This is particularly useful to have open while assembling the boards.
